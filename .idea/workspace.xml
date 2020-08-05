@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b993e2-dd9b-4983-818e-3b1de3dc61c4" name="Default Changelist" comment="" />
+    <list default="true" id="f8b993e2-dd9b-4983-818e-3b1de3dc61c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/IsUnivalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/RangeSumBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/binary/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ear/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejbs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary-source/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZfHMC0QJi1D8He5b01UcEc2Dhc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -139,6 +158,17 @@
       <updated>1585223177682</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

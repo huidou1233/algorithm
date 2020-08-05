@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="servlet" />
-        <module name="ear" />
         <module name="logging" />
-        <module name="ejbs" />
-        <module name="primary-source" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.5" />
+      <module name="primary-source" target="1.5" />
+      <module name="servlets" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
