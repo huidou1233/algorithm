@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b993e2-dd9b-4983-818e-3b1de3dc61c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/IsUnivalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/RangeSumBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/logging/src/main/java/alg/tree/binary/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ear/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejbs/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary-source/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="f8b993e2-dd9b-4983-818e-3b1de3dc61c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1585223177682</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1596629255728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596629255728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +162,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
